@@ -10,17 +10,17 @@ const tabs = [
   {
     id: 1,
     header: "History",
-    para: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae accusamus vitae distinctio mollitia nulla? Perspiciatis doloribus impedit sapiente qui voluptatum enim placeat suscipit odit soluta deleniti, omnis accusantium harum architecto temporibus aliquid eum, rerum, nihil ab? Odio maiores provident ex?",
+    para: "Zara's history began in Spain in 1975 with Amancio Ortega, pioneering fast fashion by quickly moving runway trends to stores at affordable prices through integrated design, manufacturing, and quick supply chains. Its core vision is to democratize fashion, bringing style to everyone via unique designs, fast replenishment",
   },
   {
     id: 2,
     header: "Vision",
-    para: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae accusamus vitae distinctio mollitia nulla? Perspiciatis doloribus impedit sapiente qui voluptatum enim placeat suscipit odit soluta deleniti, omnis accusantium harum architecto temporibus aliquid eum, rerum, nihil ab? Odio maiores provident ex?",
+    para: "To lead the fashion market by continuously innovating to meet customer desires for new, quality designs at accessible prices, blending high fashion with everyday wear.",
   },
   {
     id: 3,
     header: "Goals",
-    para: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestiae accusamus vitae distinctio mollitia nulla? Perspiciatis doloribus impedit sapiente qui voluptatum enim placeat suscipit odit soluta deleniti, omnis accusantium harum architecto temporibus aliquid eum, rerum, nihil ab? Odio maiores provident ex?",
+    para: "Fast Fashion & Customer Focus: Quickly translate trends from catwalk to store (weeks) using vertical integration, flexible production, and low inventory to create scarcity and choice.Commit to reducing environmental impact through circular services (repairs, resale), preferred materials, water reduction, and achieving net-zero emissions by 2040. ",
   },
 ];
 
